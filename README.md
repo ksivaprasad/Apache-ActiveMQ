@@ -10,4 +10,11 @@ Message Queue using Apache ActiveMQ
    If all good, it will give the ActiveMQ page.
 5. Now go to the console by http://localhost:8161/admin
    (username =admin, password = admin)
-6. Get the queue page by clicking 'Queue' in the menu.
+   
+## Creating Queue
+1. Get in to the ActiveMQ dashboard
+2. Get the queue page by clicking 'Queue' in the menu.
+3. Type the queue name and click 'Create' button.
+
+## Sending message to the queue
+1. Click 'send' option under the 'Operations' Column.
