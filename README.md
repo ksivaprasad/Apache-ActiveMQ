@@ -2,7 +2,7 @@
 Message Queue using Apache ActiveMQ
 
 ##Setting up Apache ActiveMQ
-1. Download the Apache ActiveMQ from *http://activemq.apache.org/download.html
+1. Download the Apache ActiveMQ from http://activemq.apache.org/download.html
 2. Extract the downloaded archive to some location in your system.
 3. Run the ActiveMQ by double clicking the '‘activemq.bat' file in the '\bin' directory.
    (May you have to look in the win32 or win64 folder)
